@@ -1,4 +1,5 @@
 def oxford_comma(array)
-  [ Horse, Cow, Bull]
+=>  [ "Horse", "Cow"," Bull"]
+  
 
 end
